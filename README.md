@@ -6,4 +6,4 @@ I chose this format as over the past two years I worked as a developer on an ope
 
 While writing some of the code for this challenge, I often referred to the skimage and pytorch documentation. As a result, some snippets are naturally quite similar to the examples there. To keep the focus on my problem-solving approach, experimental design, and synthesis of findings, I have chosen to initially hide certain code cells. These can be revealed at any time by clicking the “source” dropdown, which displays the code that produced the output shown directly below.
 
-If you’re curious, here are a few examples of the open textbooks I worked on using the same framework: maybe??? TODO
+If you’re curious, here are a few examples of the open textbooks I worked on using the same framework: (ik twijfel nog of ik dit moet doen)
