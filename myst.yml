@@ -13,9 +13,9 @@ project:
     - file: README.md
     - title: Content
       children:
-        - file: content\Task_1.ipynb
-        - file: content\Task_2.ipynb
-        - file: content\Task_3.ipynb
+        - file: content/Task_1.ipynb
+        - file: content/Task_2.ipynb
+        - file: content/Task_3.ipynb
     
 site:
   template: book-theme
